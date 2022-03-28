@@ -1,1 +1,3 @@
-# Git demo on monday afternoon
+# Git demo on tuesday afternoon
+
+## Features deleted
